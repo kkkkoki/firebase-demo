@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-demo-1aa16": {
+      "hosting": {
+        "firebase-demo2": [
+          "fir-demo-1aa16"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-demo-1aa16"
+  }
+}
